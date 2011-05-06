@@ -1,4 +1,4 @@
-   package mylibrary.myio.Keyboard;
+   package mylibrary.myio;
    import java.util.*;
 /**
  A class to simplify keyboard input even further than the Scanner
